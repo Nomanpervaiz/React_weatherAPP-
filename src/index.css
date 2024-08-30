@@ -1,0 +1,57 @@
+.main{
+  display: flex;
+  justify-content: center;
+  border: 3px solid black ;
+  border-radius: 30px ;
+  margin: 0%;
+}
+.heading{
+text-align: center;
+  margin-top: 0px ;
+  font-size: 2.8rem ;
+  color: white;
+}
+
+input{
+ 
+  border: none ;
+  width: 100%;
+  padding: 10px  20px ;  
+  border-radius: 10px ;
+  outline: none;
+}
+button{
+display: block;
+margin: 10px   auto;
+  width: 50%;
+  padding: 10px  20px ;  
+  background-color: black;
+  color: white;
+  border-radius: 10px ;
+  outline: none;
+  border: none ;
+  cursor: pointer;
+
+}
+
+.detailMain{
+  margin: 6px  0px;
+  width: 400px  !important;
+  padding: 0%;
+  display: flex;
+  justify-content: space-between;
+color: white;
+}
+.iconImage{
+  display: block;
+  margin: auto;
+  width: 176px ;
+  padding: 0px !important;
+}
+
+.errorp{
+  color: white ;
+  font-size: 20px ;
+  text-align: center;
+
+}
